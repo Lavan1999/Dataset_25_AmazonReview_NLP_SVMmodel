@@ -22,4 +22,4 @@
 # Evaluation:
 - Evaluate the performance of the SVM model.
 - Calculate the accuracy score of the model.
-- Generate a classification report to examine precision, recall, and F1-score for each class (positive and negative).
+- Generate a classification report to examine precision, recall, and F1-score for each class [positive and negative].
